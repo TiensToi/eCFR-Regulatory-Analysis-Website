@@ -1,0 +1,12 @@
+{
+  "agencies.json": {
+    "word_count": 6125,
+    "checksum": "f377f65c9685bf7ec16b6e385e64d379",
+    "readability": 141.17767698067738
+  },
+  "title1_parsed.json": {
+    "word_count": 32061,
+    "checksum": "c75febcc08d9867230a56becd353df24",
+    "readability": 16.26979942444015
+  }
+}

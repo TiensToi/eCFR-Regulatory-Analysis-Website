@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eCFR Regulatory Analysis Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>eCFR Regulatory Analysis Dashboard</h1>
+    <input type="text" id="search" placeholder="Search agencies...">
+    <table id="metrics-table">
+        <thead>
+            <tr>
+                <th>Agency</th>
+                <th>Word Count</th>
+                <th>Checksum</th>
+                <th>Readability</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+    <canvas id="historyChart" width="800" height="400"></canvas>
+    <script src="scripts.js"></script>
+</body>
+</html>

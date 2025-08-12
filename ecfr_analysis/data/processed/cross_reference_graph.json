@@ -1,0 +1,1141 @@
+{
+  "nodes": [
+    {
+      "id": "PART 1\u2014DEFINITIONS",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 1.1   Definitions.",
+      "type": "section",
+      "part": "PART 1\u2014DEFINITIONS"
+    },
+    {
+      "id": "PART 2\u2014GENERAL INFORMATION",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 2.1   Scope and purpose.",
+      "type": "section",
+      "part": "PART 2\u2014GENERAL INFORMATION"
+    },
+    {
+      "id": "\u00a7 2.2   Administrative Committee of the Federal Register.",
+      "type": "section",
+      "part": "PART 2\u2014GENERAL INFORMATION"
+    },
+    {
+      "id": "\u00a7 2.3   Office of the Federal Register; location; office hours.",
+      "type": "section",
+      "part": "PART 2\u2014GENERAL INFORMATION"
+    },
+    {
+      "id": "\u00a7 2.4   General authority of Director.",
+      "type": "section",
+      "part": "PART 2\u2014GENERAL INFORMATION"
+    },
+    {
+      "id": "\u00a7 2.5   Publication of statutes, regulations, and related documents.",
+      "type": "section",
+      "part": "PART 2\u2014GENERAL INFORMATION"
+    },
+    {
+      "id": "\u00a7 2.6   Unrestricted use.",
+      "type": "section",
+      "part": "PART 2\u2014GENERAL INFORMATION"
+    },
+    {
+      "id": "PART 3\u2014SERVICES TO THE PUBLIC",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 3.1   Information services.",
+      "type": "section",
+      "part": "PART 3\u2014SERVICES TO THE PUBLIC"
+    },
+    {
+      "id": "\u00a7 3.2   Public inspection of documents.",
+      "type": "section",
+      "part": "PART 3\u2014SERVICES TO THE PUBLIC"
+    },
+    {
+      "id": "\u00a7 3.3   Reproduction and certification of copies of acts and documents.",
+      "type": "section",
+      "part": "PART 3\u2014SERVICES TO THE PUBLIC"
+    },
+    {
+      "id": "PART 5\u2014GENERAL",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 5.1   Publication policy.",
+      "type": "section",
+      "part": "PART 5\u2014GENERAL"
+    },
+    {
+      "id": "\u00a7 5.2   Documents required to be filed for public inspection and published.",
+      "type": "section",
+      "part": "PART 5\u2014GENERAL"
+    },
+    {
+      "id": "\u00a7 5.3   Publication of other documents.",
+      "type": "section",
+      "part": "PART 5\u2014GENERAL"
+    },
+    {
+      "id": "\u00a7 5.4   Publication not authorized.",
+      "type": "section",
+      "part": "PART 5\u2014GENERAL"
+    },
+    {
+      "id": "\u00a7 5.5   Supplement to the Code of Federal Regulations.",
+      "type": "section",
+      "part": "PART 5\u2014GENERAL"
+    },
+    {
+      "id": "\u00a7 5.6   Daily publication.",
+      "type": "section",
+      "part": "PART 5\u2014GENERAL"
+    },
+    {
+      "id": "\u00a7 5.7   Delivery and mailing.",
+      "type": "section",
+      "part": "PART 5\u2014GENERAL"
+    },
+    {
+      "id": "\u00a7 5.8   Form of citation.",
+      "type": "section",
+      "part": "PART 5\u2014GENERAL"
+    },
+    {
+      "id": "\u00a7 5.9   Categories of documents.",
+      "type": "section",
+      "part": "PART 5\u2014GENERAL"
+    },
+    {
+      "id": "\u00a7 5.10   Forms of publication.",
+      "type": "section",
+      "part": "PART 5\u2014GENERAL"
+    },
+    {
+      "id": "PART 6\u2014INDEXES AND ANCILLARIES",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 6.1   Index to daily issues.",
+      "type": "section",
+      "part": "PART 6\u2014INDEXES AND ANCILLARIES"
+    },
+    {
+      "id": "\u00a7 6.2   Analytical subject indexes.",
+      "type": "section",
+      "part": "PART 6\u2014INDEXES AND ANCILLARIES"
+    },
+    {
+      "id": "\u00a7 6.3   Daily lists of parts affected.",
+      "type": "section",
+      "part": "PART 6\u2014INDEXES AND ANCILLARIES"
+    },
+    {
+      "id": "\u00a7 6.4   Monthly list of sections affected.",
+      "type": "section",
+      "part": "PART 6\u2014INDEXES AND ANCILLARIES"
+    },
+    {
+      "id": "\u00a7 6.5   Indexes, digests, and guides.",
+      "type": "section",
+      "part": "PART 6\u2014INDEXES AND ANCILLARIES"
+    },
+    {
+      "id": "PART 8\u2014CODE OF FEDERAL REGULATIONS",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 8.1   Policy.",
+      "type": "section",
+      "part": "PART 8\u2014CODE OF FEDERAL REGULATIONS"
+    },
+    {
+      "id": "\u00a7 8.2   Orderly development.",
+      "type": "section",
+      "part": "PART 8\u2014CODE OF FEDERAL REGULATIONS"
+    },
+    {
+      "id": "\u00a7 8.3   Periodic updating.",
+      "type": "section",
+      "part": "PART 8\u2014CODE OF FEDERAL REGULATIONS"
+    },
+    {
+      "id": "\u00a7 8.4   Indexes.",
+      "type": "section",
+      "part": "PART 8\u2014CODE OF FEDERAL REGULATIONS"
+    },
+    {
+      "id": "\u00a7 8.5   Ancillaries.",
+      "type": "section",
+      "part": "PART 8\u2014CODE OF FEDERAL REGULATIONS"
+    },
+    {
+      "id": "\u00a7 8.6   Forms of publication.",
+      "type": "section",
+      "part": "PART 8\u2014CODE OF FEDERAL REGULATIONS"
+    },
+    {
+      "id": "\u00a7 8.7   Agency cooperation.",
+      "type": "section",
+      "part": "PART 8\u2014CODE OF FEDERAL REGULATIONS"
+    },
+    {
+      "id": "\u00a7 8.9   Form of citation.",
+      "type": "section",
+      "part": "PART 8\u2014CODE OF FEDERAL REGULATIONS"
+    },
+    {
+      "id": "PART 9\u2014THE UNITED STATES GOVERNMENT MANUAL",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 9.1   Publication required.",
+      "type": "section",
+      "part": "PART 9\u2014THE UNITED STATES GOVERNMENT MANUAL"
+    },
+    {
+      "id": "\u00a7 9.2   Scope.",
+      "type": "section",
+      "part": "PART 9\u2014THE UNITED STATES GOVERNMENT MANUAL"
+    },
+    {
+      "id": "PART 10\u2014PRESIDENTIAL PAPERS",
+      "type": "part"
+    },
+    {
+      "id": "PART 11\u2014SUBSCRIPTIONS",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 11.1   Subscription by the public.",
+      "type": "section",
+      "part": "PART 11\u2014SUBSCRIPTIONS"
+    },
+    {
+      "id": "\u00a7 11.2   Federal Register.",
+      "type": "section",
+      "part": "PART 11\u2014SUBSCRIPTIONS"
+    },
+    {
+      "id": "\u00a7 11.3   Code of Federal Regulations.",
+      "type": "section",
+      "part": "PART 11\u2014SUBSCRIPTIONS"
+    },
+    {
+      "id": "\u00a7 11.4   The United States Government Manual.",
+      "type": "section",
+      "part": "PART 11\u2014SUBSCRIPTIONS"
+    },
+    {
+      "id": "\u00a7 11.5   Public Papers of the Presidents of the United States.",
+      "type": "section",
+      "part": "PART 11\u2014SUBSCRIPTIONS"
+    },
+    {
+      "id": "\u00a7 11.6   [Reserved]",
+      "type": "section",
+      "part": "PART 11\u2014SUBSCRIPTIONS"
+    },
+    {
+      "id": "\u00a7 11.7   Federal Register Index.",
+      "type": "section",
+      "part": "PART 11\u2014SUBSCRIPTIONS"
+    },
+    {
+      "id": "\u00a7 11.8   LSA (List of CFR Sections Affected).",
+      "type": "section",
+      "part": "PART 11\u2014SUBSCRIPTIONS"
+    },
+    {
+      "id": "PART 12\u2014OFFICIAL DISTRIBUTION WITHIN FEDERAL GOVERNMENT",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 12.1   Federal Register.",
+      "type": "section",
+      "part": "PART 12\u2014OFFICIAL DISTRIBUTION WITHIN FEDERAL GOVERNMENT"
+    },
+    {
+      "id": "\u00a7 12.2   Code of Federal Regulations.",
+      "type": "section",
+      "part": "PART 12\u2014OFFICIAL DISTRIBUTION WITHIN FEDERAL GOVERNMENT"
+    },
+    {
+      "id": "\u00a7 12.4   Weekly Compilation of Presidential Documents.",
+      "type": "section",
+      "part": "PART 12\u2014OFFICIAL DISTRIBUTION WITHIN FEDERAL GOVERNMENT"
+    },
+    {
+      "id": "\u00a7 12.5   [Reserved]",
+      "type": "section",
+      "part": "PART 12\u2014OFFICIAL DISTRIBUTION WITHIN FEDERAL GOVERNMENT"
+    },
+    {
+      "id": "PART 15\u2014SERVICES TO FEDERAL AGENCIES",
+      "type": "part"
+    },
+    {
+      "id": "PART 16\u2014AGENCY REPRESENTATIVES",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 16.1   Designation.",
+      "type": "section",
+      "part": "PART 16\u2014AGENCY REPRESENTATIVES"
+    },
+    {
+      "id": "\u00a7 16.2   Liaison duties.",
+      "type": "section",
+      "part": "PART 16\u2014AGENCY REPRESENTATIVES"
+    },
+    {
+      "id": "\u00a7 16.3   Certifying duties.",
+      "type": "section",
+      "part": "PART 16\u2014AGENCY REPRESENTATIVES"
+    },
+    {
+      "id": "\u00a7 16.4   Authorizing duties.",
+      "type": "section",
+      "part": "PART 16\u2014AGENCY REPRESENTATIVES"
+    },
+    {
+      "id": "PART 17\u2014FILING FOR PUBLIC INSPECTION AND PUBLICATION SCHEDULES",
+      "type": "part"
+    },
+    {
+      "id": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 18.1   Original and copies required.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.2   Prohibition on combined category documents.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.3   Submission of documents and letters of transmittal.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.4   Form of document.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.5   Certified copies.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.6   Form of certification.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.7   Signature.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.8   Seal.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.9   Style.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.10   Illustrations, tabular material, and forms.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.12   Preamble requirements.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.13   Withdrawal or correction of filed documents.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.15   Correction of errors in printing.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.16   Reinstatement of expired regulations.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.17   Effective dates and time periods.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "\u00a7 18.20   Identification of subjects in agency regulations.",
+      "type": "section",
+      "part": "PART 18\u2014PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY"
+    },
+    {
+      "id": "PART 19\u2014EXECUTIVE ORDERS AND PRESIDENTIAL PROCLAMATIONS",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 19.1   Form.",
+      "type": "section",
+      "part": "PART 19\u2014EXECUTIVE ORDERS AND PRESIDENTIAL PROCLAMATIONS"
+    },
+    {
+      "id": "\u00a7 19.2   Routing and approval of drafts.",
+      "type": "section",
+      "part": "PART 19\u2014EXECUTIVE ORDERS AND PRESIDENTIAL PROCLAMATIONS"
+    },
+    {
+      "id": "\u00a7 19.3   Routing and certification of originals and copies.",
+      "type": "section",
+      "part": "PART 19\u2014EXECUTIVE ORDERS AND PRESIDENTIAL PROCLAMATIONS"
+    },
+    {
+      "id": "\u00a7 19.4   Proclamations calling for the observance of special days or events.",
+      "type": "section",
+      "part": "PART 19\u2014EXECUTIVE ORDERS AND PRESIDENTIAL PROCLAMATIONS"
+    },
+    {
+      "id": "\u00a7 19.5   Proclamations of treaties excluded.",
+      "type": "section",
+      "part": "PART 19\u2014EXECUTIVE ORDERS AND PRESIDENTIAL PROCLAMATIONS"
+    },
+    {
+      "id": "\u00a7 19.6   Definition.",
+      "type": "section",
+      "part": "PART 19\u2014EXECUTIVE ORDERS AND PRESIDENTIAL PROCLAMATIONS"
+    },
+    {
+      "id": "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 20.1   Liaison officers.",
+      "type": "section",
+      "part": "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS"
+    },
+    {
+      "id": "\u00a7 20.2   Preparation of agency statements.",
+      "type": "section",
+      "part": "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS"
+    },
+    {
+      "id": "\u00a7 20.3   Organization.",
+      "type": "section",
+      "part": "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS"
+    },
+    {
+      "id": "\u00a7 20.4   Description of program activities.",
+      "type": "section",
+      "part": "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS"
+    },
+    {
+      "id": "\u00a7 20.5   Sources of information.",
+      "type": "section",
+      "part": "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS"
+    },
+    {
+      "id": "\u00a7 20.6   Form, style, arrangement and apportionment of space.",
+      "type": "section",
+      "part": "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS"
+    },
+    {
+      "id": "\u00a7 20.7   Deadline dates.",
+      "type": "section",
+      "part": "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS"
+    },
+    {
+      "id": "PART 21\u2014PREPARATION OF DOCUMENTS SUBJECT TO CODIFICATION",
+      "type": "part"
+    },
+    {
+      "id": "PART 22\u2014PREPARATION OF NOTICES AND PROPOSED RULES",
+      "type": "part"
+    },
+    {
+      "id": "PARTS 23-49 [RESERVED]",
+      "type": "part"
+    },
+    {
+      "id": "PART 50 [RESERVED]",
+      "type": "part"
+    },
+    {
+      "id": "PART 51\u2014INCORPORATION BY REFERENCE",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 51.1   Policy.",
+      "type": "section",
+      "part": "PART 51\u2014INCORPORATION BY REFERENCE"
+    },
+    {
+      "id": "\u00a7 51.3   When will the Director approve a publication?",
+      "type": "section",
+      "part": "PART 51\u2014INCORPORATION BY REFERENCE"
+    },
+    {
+      "id": "\u00a7 51.5   How does an agency request approval?",
+      "type": "section",
+      "part": "PART 51\u2014INCORPORATION BY REFERENCE"
+    },
+    {
+      "id": "\u00a7 51.7   What publications are eligible?",
+      "type": "section",
+      "part": "PART 51\u2014INCORPORATION BY REFERENCE"
+    },
+    {
+      "id": "\u00a7 51.9   What is the proper language of incorporation?",
+      "type": "section",
+      "part": "PART 51\u2014INCORPORATION BY REFERENCE"
+    },
+    {
+      "id": "\u00a7 51.11   How does an agency change or remove an approved incorporation?",
+      "type": "section",
+      "part": "PART 51\u2014INCORPORATION BY REFERENCE"
+    },
+    {
+      "id": "PARTS 52-299 [RESERVED]",
+      "type": "part"
+    },
+    {
+      "id": "PART 300 [RESERVED]",
+      "type": "part"
+    },
+    {
+      "id": "PART 301\u2014ORGANIZATION AND PURPOSE",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 301.1   Establishment and location.",
+      "type": "section",
+      "part": "PART 301\u2014ORGANIZATION AND PURPOSE"
+    },
+    {
+      "id": "\u00a7 301.2   Purposes.",
+      "type": "section",
+      "part": "PART 301\u2014ORGANIZATION AND PURPOSE"
+    },
+    {
+      "id": "\u00a7 301.3   Organization.",
+      "type": "section",
+      "part": "PART 301\u2014ORGANIZATION AND PURPOSE"
+    },
+    {
+      "id": "\u00a7 301.4   Activities.",
+      "type": "section",
+      "part": "PART 301\u2014ORGANIZATION AND PURPOSE"
+    },
+    {
+      "id": "\u00a7 301.5   Office of the Chairman.",
+      "type": "section",
+      "part": "PART 301\u2014ORGANIZATION AND PURPOSE"
+    },
+    {
+      "id": "PARTS 302-303 [RESERVED]",
+      "type": "part"
+    },
+    {
+      "id": "PART 304\u2014DISCLOSURE OF RECORDS OR INFORMATION",
+      "type": "part"
+    },
+    {
+      "id": "PARTS 305-399 [RESERVED]",
+      "type": "part"
+    },
+    {
+      "id": "PARTS 400-424 [RESERVED]",
+      "type": "part"
+    },
+    {
+      "id": "PART 425\u2014PRESIDENT'S COMMISSION ON WHITE HOUSE FELLOWSHIPS",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 425.1   Purpose and scope.",
+      "type": "section",
+      "part": "PART 425\u2014PRESIDENT'S COMMISSION ON WHITE HOUSE FELLOWSHIPS"
+    },
+    {
+      "id": "\u00a7 425.2   Procedures for notification of existence of records pertaining to individuals.",
+      "type": "section",
+      "part": "PART 425\u2014PRESIDENT'S COMMISSION ON WHITE HOUSE FELLOWSHIPS"
+    },
+    {
+      "id": "\u00a7 425.3   Procedure for requests for access to or disclosure of records pertaining to individuals.",
+      "type": "section",
+      "part": "PART 425\u2014PRESIDENT'S COMMISSION ON WHITE HOUSE FELLOWSHIPS"
+    },
+    {
+      "id": "\u00a7 425.4   Correction of records.",
+      "type": "section",
+      "part": "PART 425\u2014PRESIDENT'S COMMISSION ON WHITE HOUSE FELLOWSHIPS"
+    },
+    {
+      "id": "\u00a7 425.5   Disclosure of records to agencies or persons other than the individual to whom the record pertains.",
+      "type": "section",
+      "part": "PART 425\u2014PRESIDENT'S COMMISSION ON WHITE HOUSE FELLOWSHIPS"
+    },
+    {
+      "id": "PART 426\u2014NATIONAL COMMISSION ON MILITARY, NATIONAL, AND PUBLIC SERVICE",
+      "type": "part"
+    },
+    {
+      "id": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 457.101   Purpose.",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7 457.102   Application.",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7 457.103   Definitions.",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7\u00a7 457.104-457.109   [Reserved]",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7 457.110   Self-evaluation.",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7 457.111   Notice.",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7\u00a7 457.112-457.129   [Reserved]",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7 457.130   General prohibitions against discrimination.",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7\u00a7 457.131-457.139   [Reserved]",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7 457.140   Employment.",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7\u00a7 457.141-457.148   [Reserved]",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7 457.149   Program accessibility: Discrimination prohibited.",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7 457.150   Program accessibility: Existing facilities.",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7 457.151   Program accessibility: New construction and alterations.",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7\u00a7 457.152-457.159   [Reserved]",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7 457.160   Communications.",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7\u00a7 457.161-457.169   [Reserved]",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7 457.170   Compliance procedures.",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "\u00a7\u00a7 457.171-457.999   [Reserved]",
+      "type": "section",
+      "part": "PART 457\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION"
+    },
+    {
+      "id": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 500.101   Purpose.",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7 500.102   Application.",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7 500.103   Definitions.",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7\u00a7 500.104-500.109   [Reserved]",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7 500.110   Self-evaluation.",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7 500.111   Notice.",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7\u00a7 500.112-500.129   [Reserved]",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7 500.130   General prohibitions against discrimination.",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7\u00a7 500.131-500.139   [Reserved]",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7 500.140   Employment.",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7\u00a7 500.141-500.148   [Reserved]",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7 500.149   Program accessibility: Discrimination prohibited.",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7 500.150   Program accessibility: Existing facilities.",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7 500.151   Program accessibility: New construction and alterations.",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7\u00a7 500.152-500.159   [Reserved]",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7 500.160   Communications.",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7\u00a7 500.161-500.169   [Reserved]",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7 500.170   Compliance procedures.",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "\u00a7\u00a7 500.171-500.999   [Reserved]",
+      "type": "section",
+      "part": "PART 500\u2014ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY"
+    },
+    {
+      "id": "PART 600 [RESERVED]",
+      "type": "part"
+    },
+    {
+      "id": "PART 601\u2014IMPLEMENTATION OF THE NATIONAL ENVIRONMENTAL POLICY ACT",
+      "type": "part"
+    },
+    {
+      "id": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 602.1   Purpose.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.2   Policy.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.3   Definitions.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.4   Information available without a FOIA Request.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.5   FOIA Request requirements.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.6   FOIA response requirements.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.7   Multi-track processing.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.8   Expedited processing.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.9   Consultations and referrals.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.10   Classified and Controlled Unclassified Information.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.11   Confidential Commercial Information.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.12   Appeals of Adverse Determinations.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.13   Fees.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.14   Fee waiver requirements.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 602.15   Preservation of FOIA records.",
+      "type": "section",
+      "part": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "id": "PART 603\u2014PRIVACY ACT REGULATIONS",
+      "type": "part"
+    },
+    {
+      "id": "\u00a7 603.1   Purpose and scope.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.2   Definitions.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.3   Privacy Act program responsibilities.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.4   Standards used to Maintain Records.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.5   Notice to Individuals supplying information.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.6   System of Records Notice or SORN.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.7   Procedures to safeguard Records.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.8   Employee conduct.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.9   Government contracts.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.10   Conditions for disclosure.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.11   Accounting of disclosures.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.12   Requests for notification of the existence of Records.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.13   Requests for access to Records.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.14   Requests for Amendment or Correction of Records.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.15   Requests for Accounting of Record disclosures.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.16   Appeals of Adverse Determinations.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.17   Fees.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "id": "\u00a7 603.18   Privacy Impact Assessments.",
+      "type": "section",
+      "part": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    }
+  ],
+  "edges": [
+    {
+      "source": "\u00a7 1.1   Definitions.",
+      "target": "section 1506"
+    },
+    {
+      "source": "\u00a7 1.1   Definitions.",
+      "target": "title 44"
+    },
+    {
+      "source": "\u00a7 1.1   Definitions.",
+      "target": "PART 17\u2014FILING FOR PUBLIC INSPECTION AND PUBLICATION SCHEDULES"
+    },
+    {
+      "source": "\u00a7 2.1   Scope and purpose.",
+      "target": "title 44"
+    },
+    {
+      "source": "\u00a7 5.1   Publication policy.",
+      "target": "title 44"
+    },
+    {
+      "source": "\u00a7 5.9   Categories of documents.",
+      "target": "section 553"
+    },
+    {
+      "source": "\u00a7 5.9   Categories of documents.",
+      "target": "title 5"
+    },
+    {
+      "source": "\u00a7 5.10   Forms of publication.",
+      "target": "44 U.S.C. 4101"
+    },
+    {
+      "source": "\u00a7 5.10   Forms of publication.",
+      "target": "section 1506"
+    },
+    {
+      "source": "\u00a7 5.10   Forms of publication.",
+      "target": "title 44"
+    },
+    {
+      "source": "\u00a7 8.1   Policy.",
+      "target": "title 44"
+    },
+    {
+      "source": "\u00a7 8.6   Forms of publication.",
+      "target": "section 1506"
+    },
+    {
+      "source": "\u00a7 8.6   Forms of publication.",
+      "target": "title 44"
+    },
+    {
+      "source": "\u00a7 20.2   Preparation of agency statements.",
+      "target": "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS"
+    },
+    {
+      "source": "\u00a7 51.7   What publications are eligible?",
+      "target": "5 U.S.C. 552"
+    },
+    {
+      "source": "\u00a7 457.140   Employment.",
+      "target": "29 U.S.C. 791"
+    },
+    {
+      "source": "\u00a7 457.140   Employment.",
+      "target": "part 1613"
+    },
+    {
+      "source": "\u00a7 457.140   Employment.",
+      "target": "section 501"
+    },
+    {
+      "source": "\u00a7 457.170   Compliance procedures.",
+      "target": "29 U.S.C. 791"
+    },
+    {
+      "source": "\u00a7 457.170   Compliance procedures.",
+      "target": "part 1613"
+    },
+    {
+      "source": "\u00a7 457.170   Compliance procedures.",
+      "target": "section 501"
+    },
+    {
+      "source": "\u00a7 457.170   Compliance procedures.",
+      "target": "section 504"
+    },
+    {
+      "source": "\u00a7 500.140   Employment.",
+      "target": "29 U.S.C. 791"
+    },
+    {
+      "source": "\u00a7 500.140   Employment.",
+      "target": "part 1613"
+    },
+    {
+      "source": "\u00a7 500.140   Employment.",
+      "target": "section 501"
+    },
+    {
+      "source": "\u00a7 500.170   Compliance procedures.",
+      "target": "29 U.S.C. 791"
+    },
+    {
+      "source": "\u00a7 500.170   Compliance procedures.",
+      "target": "part 1613"
+    },
+    {
+      "source": "\u00a7 500.170   Compliance procedures.",
+      "target": "section 501"
+    },
+    {
+      "source": "\u00a7 500.170   Compliance procedures.",
+      "target": "section 504"
+    },
+    {
+      "source": "\u00a7 602.1   Purpose.",
+      "target": "5 U.S.C. 552"
+    },
+    {
+      "source": "\u00a7 602.1   Purpose.",
+      "target": "Title 1"
+    },
+    {
+      "source": "\u00a7 602.1   Purpose.",
+      "target": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "source": "\u00a7 602.3   Definitions.",
+      "target": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "source": "\u00a7 603.1   Purpose and scope.",
+      "target": "5 U.S.C. 552"
+    },
+    {
+      "source": "\u00a7 603.1   Purpose and scope.",
+      "target": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "source": "\u00a7 603.2   Definitions.",
+      "target": "section 3501"
+    },
+    {
+      "source": "\u00a7 603.2   Definitions.",
+      "target": "title 44"
+    },
+    {
+      "source": "\u00a7 603.17   Fees.",
+      "target": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "source": "\u00a7 603.17   Fees.",
+      "target": "subpart in"
+    }
+  ]
+}

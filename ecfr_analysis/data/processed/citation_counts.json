@@ -1,0 +1,179 @@
+{
+  "citation_counts": {
+    "section 1506": 3,
+    "title 44": 7,
+    "PART 17\u2014FILING FOR PUBLIC INSPECTION AND PUBLICATION SCHEDULES": 1,
+    "section 553": 1,
+    "title 5": 1,
+    "44 U.S.C. 4101": 1,
+    "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS": 1,
+    "5 U.S.C. 552": 3,
+    "29 U.S.C. 791": 4,
+    "part 1613": 4,
+    "section 501": 4,
+    "section 504": 2,
+    "Title 1": 1,
+    "PART 603\u2014PRIVACY ACT REGULATIONS": 2,
+    "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS": 2,
+    "section 3501": 1,
+    "subpart in": 1
+  },
+  "resolved_references": [
+    {
+      "reference": "section 1506",
+      "resolved_to": null
+    },
+    {
+      "reference": "title 44",
+      "resolved_to": null
+    },
+    {
+      "reference": "part 17",
+      "resolved_to": "PART 17\u2014FILING FOR PUBLIC INSPECTION AND PUBLICATION SCHEDULES"
+    },
+    {
+      "reference": "title 44",
+      "resolved_to": null
+    },
+    {
+      "reference": "title 44",
+      "resolved_to": null
+    },
+    {
+      "reference": "section 553",
+      "resolved_to": null
+    },
+    {
+      "reference": "title 5",
+      "resolved_to": null
+    },
+    {
+      "reference": "44 U.S.C. 4101",
+      "resolved_to": null
+    },
+    {
+      "reference": "section 1506",
+      "resolved_to": null
+    },
+    {
+      "reference": "title 44",
+      "resolved_to": null
+    },
+    {
+      "reference": "title 44",
+      "resolved_to": null
+    },
+    {
+      "reference": "section 1506",
+      "resolved_to": null
+    },
+    {
+      "reference": "title 44",
+      "resolved_to": null
+    },
+    {
+      "reference": "part 20",
+      "resolved_to": "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS"
+    },
+    {
+      "reference": "5 U.S.C. 552",
+      "resolved_to": null
+    },
+    {
+      "reference": "29 U.S.C. 791",
+      "resolved_to": null
+    },
+    {
+      "reference": "part 1613",
+      "resolved_to": null
+    },
+    {
+      "reference": "section 501",
+      "resolved_to": null
+    },
+    {
+      "reference": "29 U.S.C. 791",
+      "resolved_to": null
+    },
+    {
+      "reference": "part 1613",
+      "resolved_to": null
+    },
+    {
+      "reference": "section 501",
+      "resolved_to": null
+    },
+    {
+      "reference": "section 504",
+      "resolved_to": null
+    },
+    {
+      "reference": "29 U.S.C. 791",
+      "resolved_to": null
+    },
+    {
+      "reference": "part 1613",
+      "resolved_to": null
+    },
+    {
+      "reference": "section 501",
+      "resolved_to": null
+    },
+    {
+      "reference": "29 U.S.C. 791",
+      "resolved_to": null
+    },
+    {
+      "reference": "part 1613",
+      "resolved_to": null
+    },
+    {
+      "reference": "section 501",
+      "resolved_to": null
+    },
+    {
+      "reference": "section 504",
+      "resolved_to": null
+    },
+    {
+      "reference": "5 U.S.C. 552",
+      "resolved_to": null
+    },
+    {
+      "reference": "Title 1",
+      "resolved_to": null
+    },
+    {
+      "reference": "part 603",
+      "resolved_to": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "reference": "part 603",
+      "resolved_to": "PART 603\u2014PRIVACY ACT REGULATIONS"
+    },
+    {
+      "reference": "5 U.S.C. 552",
+      "resolved_to": null
+    },
+    {
+      "reference": "part 602",
+      "resolved_to": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "reference": "section 3501",
+      "resolved_to": null
+    },
+    {
+      "reference": "title 44",
+      "resolved_to": null
+    },
+    {
+      "reference": "part 602",
+      "resolved_to": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+    },
+    {
+      "reference": "subpart in",
+      "resolved_to": null
+    }
+  ]
+}
