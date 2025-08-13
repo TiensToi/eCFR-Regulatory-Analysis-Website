@@ -1,4 +1,11 @@
+
 # eCFR Regulatory Analysis Website
+
+## Notes for Reviewers
+
+- Only a small sample of eCFR data (Title 1 XML) is included due to file size limits. The code will automatically download or regenerate additional data as needed.
+- See `submission_notes.txt` for further project details and instructions.
+- To quickly test the dashboard, follow the setup and run instructions below.
 
 ## Project Overview
 This project provides a Python-based pipeline and web application to download, parse, analyze, and visualize regulatory data from the Electronic Code of Federal Regulations (eCFR), starting with Title 1. It exposes REST API endpoints for all processed data and includes a Streamlit dashboard for interactive exploration.
