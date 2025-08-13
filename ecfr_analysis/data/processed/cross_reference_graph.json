@@ -983,159 +983,198 @@
   "edges": [
     {
       "source": "\u00a7 1.1   Definitions.",
-      "target": "section 1506"
+      "target": "section 1506",
+      "label": "\u00a7 1.1   Definitions. references section 1506"
     },
     {
       "source": "\u00a7 1.1   Definitions.",
-      "target": "title 44"
+      "target": "title 44",
+      "label": "\u00a7 1.1   Definitions. references title 44"
     },
     {
       "source": "\u00a7 1.1   Definitions.",
-      "target": "PART 17\u2014FILING FOR PUBLIC INSPECTION AND PUBLICATION SCHEDULES"
+      "target": "PART 17\u2014FILING FOR PUBLIC INSPECTION AND PUBLICATION SCHEDULES",
+      "label": "\u00a7 1.1   Definitions. references PART 17\u2014FILING FOR PUBLIC INSPECTION AND PUBLICATION SCHEDULES"
     },
     {
       "source": "\u00a7 2.1   Scope and purpose.",
-      "target": "title 44"
+      "target": "title 44",
+      "label": "\u00a7 2.1   Scope and purpose. references title 44"
     },
     {
       "source": "\u00a7 5.1   Publication policy.",
-      "target": "title 44"
+      "target": "title 44",
+      "label": "\u00a7 5.1   Publication policy. references title 44"
     },
     {
       "source": "\u00a7 5.9   Categories of documents.",
-      "target": "section 553"
+      "target": "section 553",
+      "label": "\u00a7 5.9   Categories of documents. references section 553"
     },
     {
       "source": "\u00a7 5.9   Categories of documents.",
-      "target": "title 5"
+      "target": "title 5",
+      "label": "\u00a7 5.9   Categories of documents. references title 5"
     },
     {
       "source": "\u00a7 5.10   Forms of publication.",
-      "target": "44 U.S.C. 4101"
+      "target": "44 U.S.C. 4101",
+      "label": "\u00a7 5.10   Forms of publication. references 44 U.S.C. 4101"
     },
     {
       "source": "\u00a7 5.10   Forms of publication.",
-      "target": "section 1506"
+      "target": "section 1506",
+      "label": "\u00a7 5.10   Forms of publication. references section 1506"
     },
     {
       "source": "\u00a7 5.10   Forms of publication.",
-      "target": "title 44"
+      "target": "title 44",
+      "label": "\u00a7 5.10   Forms of publication. references title 44"
     },
     {
       "source": "\u00a7 8.1   Policy.",
-      "target": "title 44"
+      "target": "title 44",
+      "label": "\u00a7 8.1   Policy. references title 44"
     },
     {
       "source": "\u00a7 8.6   Forms of publication.",
-      "target": "section 1506"
+      "target": "section 1506",
+      "label": "\u00a7 8.6   Forms of publication. references section 1506"
     },
     {
       "source": "\u00a7 8.6   Forms of publication.",
-      "target": "title 44"
+      "target": "title 44",
+      "label": "\u00a7 8.6   Forms of publication. references title 44"
     },
     {
       "source": "\u00a7 20.2   Preparation of agency statements.",
-      "target": "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS"
+      "target": "PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS",
+      "label": "\u00a7 20.2   Preparation of agency statements. references PART 20\u2014HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS"
     },
     {
       "source": "\u00a7 51.7   What publications are eligible?",
-      "target": "5 U.S.C. 552"
+      "target": "5 U.S.C. 552",
+      "label": "\u00a7 51.7   What publications are eligible? references 5 U.S.C. 552"
     },
     {
       "source": "\u00a7 457.140   Employment.",
-      "target": "29 U.S.C. 791"
+      "target": "29 U.S.C. 791",
+      "label": "\u00a7 457.140   Employment. references 29 U.S.C. 791"
     },
     {
       "source": "\u00a7 457.140   Employment.",
-      "target": "part 1613"
+      "target": "part 1613",
+      "label": "\u00a7 457.140   Employment. references part 1613"
     },
     {
       "source": "\u00a7 457.140   Employment.",
-      "target": "section 501"
+      "target": "section 501",
+      "label": "\u00a7 457.140   Employment. references section 501"
     },
     {
       "source": "\u00a7 457.170   Compliance procedures.",
-      "target": "29 U.S.C. 791"
+      "target": "29 U.S.C. 791",
+      "label": "\u00a7 457.170   Compliance procedures. references 29 U.S.C. 791"
     },
     {
       "source": "\u00a7 457.170   Compliance procedures.",
-      "target": "part 1613"
+      "target": "part 1613",
+      "label": "\u00a7 457.170   Compliance procedures. references part 1613"
     },
     {
       "source": "\u00a7 457.170   Compliance procedures.",
-      "target": "section 501"
+      "target": "section 501",
+      "label": "\u00a7 457.170   Compliance procedures. references section 501"
     },
     {
       "source": "\u00a7 457.170   Compliance procedures.",
-      "target": "section 504"
+      "target": "section 504",
+      "label": "\u00a7 457.170   Compliance procedures. references section 504"
     },
     {
       "source": "\u00a7 500.140   Employment.",
-      "target": "29 U.S.C. 791"
+      "target": "29 U.S.C. 791",
+      "label": "\u00a7 500.140   Employment. references 29 U.S.C. 791"
     },
     {
       "source": "\u00a7 500.140   Employment.",
-      "target": "part 1613"
+      "target": "part 1613",
+      "label": "\u00a7 500.140   Employment. references part 1613"
     },
     {
       "source": "\u00a7 500.140   Employment.",
-      "target": "section 501"
+      "target": "section 501",
+      "label": "\u00a7 500.140   Employment. references section 501"
     },
     {
       "source": "\u00a7 500.170   Compliance procedures.",
-      "target": "29 U.S.C. 791"
+      "target": "29 U.S.C. 791",
+      "label": "\u00a7 500.170   Compliance procedures. references 29 U.S.C. 791"
     },
     {
       "source": "\u00a7 500.170   Compliance procedures.",
-      "target": "part 1613"
+      "target": "part 1613",
+      "label": "\u00a7 500.170   Compliance procedures. references part 1613"
     },
     {
       "source": "\u00a7 500.170   Compliance procedures.",
-      "target": "section 501"
+      "target": "section 501",
+      "label": "\u00a7 500.170   Compliance procedures. references section 501"
     },
     {
       "source": "\u00a7 500.170   Compliance procedures.",
-      "target": "section 504"
+      "target": "section 504",
+      "label": "\u00a7 500.170   Compliance procedures. references section 504"
     },
     {
       "source": "\u00a7 602.1   Purpose.",
-      "target": "5 U.S.C. 552"
+      "target": "5 U.S.C. 552",
+      "label": "\u00a7 602.1   Purpose. references 5 U.S.C. 552"
     },
     {
       "source": "\u00a7 602.1   Purpose.",
-      "target": "Title 1"
+      "target": "Title 1",
+      "label": "\u00a7 602.1   Purpose. references Title 1"
     },
     {
       "source": "\u00a7 602.1   Purpose.",
-      "target": "PART 603\u2014PRIVACY ACT REGULATIONS"
+      "target": "PART 603\u2014PRIVACY ACT REGULATIONS",
+      "label": "\u00a7 602.1   Purpose. references PART 603\u2014PRIVACY ACT REGULATIONS"
     },
     {
       "source": "\u00a7 602.3   Definitions.",
-      "target": "PART 603\u2014PRIVACY ACT REGULATIONS"
+      "target": "PART 603\u2014PRIVACY ACT REGULATIONS",
+      "label": "\u00a7 602.3   Definitions. references PART 603\u2014PRIVACY ACT REGULATIONS"
     },
     {
       "source": "\u00a7 603.1   Purpose and scope.",
-      "target": "5 U.S.C. 552"
+      "target": "5 U.S.C. 552",
+      "label": "\u00a7 603.1   Purpose and scope. references 5 U.S.C. 552"
     },
     {
       "source": "\u00a7 603.1   Purpose and scope.",
-      "target": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+      "target": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS",
+      "label": "\u00a7 603.1   Purpose and scope. references PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
     },
     {
       "source": "\u00a7 603.2   Definitions.",
-      "target": "section 3501"
+      "target": "section 3501",
+      "label": "\u00a7 603.2   Definitions. references section 3501"
     },
     {
       "source": "\u00a7 603.2   Definitions.",
-      "target": "title 44"
+      "target": "title 44",
+      "label": "\u00a7 603.2   Definitions. references title 44"
     },
     {
       "source": "\u00a7 603.17   Fees.",
-      "target": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
+      "target": "PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS",
+      "label": "\u00a7 603.17   Fees. references PART 602\u2014NATIONAL CAPITAL PLANNING COMMISSION FREEDOM OF INFORMATION ACT REGULATIONS"
     },
     {
       "source": "\u00a7 603.17   Fees.",
-      "target": "subpart in"
+      "target": "subpart in",
+      "label": "\u00a7 603.17   Fees. references subpart in"
     }
   ]
 }

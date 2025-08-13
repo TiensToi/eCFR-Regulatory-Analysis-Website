@@ -248,19 +248,47 @@ else:
 st.header('Cross-Reference Network')
 st.markdown('Visualizes how sections and parts reference each other. Nodes with many connections may be central to the regulation.')
 graph_data = None
-import_path = os.path.join(PROCESSED_DIR, 'cross_reference_graph.json')
-if os.path.exists(import_path):
-    with open(import_path, 'r', encoding='utf-8') as f:
-        graph_data = json.load(f)
+import requests
+
+# Load available parts and sections for selection
+all_parts = []
+all_sections = []
+if part_section_metrics:
+    df_ps = pd.DataFrame(part_section_metrics)
+    all_parts = df_ps['part_heading'].dropna().unique().tolist()
+    all_sections = df_ps['section_heading'].dropna().unique().tolist()
+
+selected_parts = st.multiselect('Select Parts for Network Graph', all_parts)
+selected_sections = st.multiselect('Select Sections for Network Graph', all_sections)
+
+params = []
+for part in selected_parts:
+    params.append(f"part={part}")
+for section in selected_sections:
+    params.append(f"section={section}")
+query_string = "&".join(params)
+api_url = f"http://localhost:5000/api/cross_reference_graph"
+if query_string:
+    api_url += f"?{query_string}"
+
+response = requests.get(api_url)
+if response.ok:
+    graph_data = response.json()
+else:
+    graph_data = None
 if graph_data:
     G = nx.DiGraph()
     for node in graph_data['nodes']:
         G.add_node(node['id'], type=node.get('type', ''))
     for edge in graph_data['edges']:
-        G.add_edge(edge['source'], edge['target'])
+        # Add edge with label as an attribute
+        G.add_edge(edge['source'], edge['target'], label=edge.get('label', ''))
     plt.figure(figsize=(12, 8))
     pos = nx.spring_layout(G, k=0.5, iterations=50)
     nx.draw(G, pos, with_labels=True, node_size=500, font_size=8, arrows=True)
+    # Draw edge labels
+    edge_labels = nx.get_edge_attributes(G, 'label')
+    nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_size=7)
     st.pyplot(plt)
     import io
     buf = io.BytesIO()
@@ -268,7 +296,6 @@ if graph_data:
     st.download_button('Download Network Graph (PNG)', buf.getvalue(), 'cross_reference_network.png', 'image/png')
 else:
     st.warning('cross_reference_graph.json not found.')
-
 
 # Historical Trends (show Title 1 data only)
 st.header('Historical Trends')

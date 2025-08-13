@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, send_from_directory
+from flask import Flask, jsonify, send_from_directory, request
 import json
 import os
 
@@ -37,7 +37,29 @@ def cross_references():
 
 @app.route('/api/cross_reference_graph')
 def cross_reference_graph():
-    return send_from_directory(DATA_DIR, 'cross_reference_graph.json')
+    graph_path = os.path.join(DATA_DIR, 'cross_reference_graph.json')
+    selected_parts = request.args.getlist('part')
+    selected_sections = request.args.getlist('section')
+    with open(graph_path, 'r', encoding='utf-8') as f:
+        graph = json.load(f)
+    if selected_parts or selected_sections:
+        filtered_nodes = [
+            node for node in graph['nodes']
+            if (not selected_parts or node.get('part') in selected_parts or (node.get('type') == 'part' and node.get('id') in selected_parts))
+            and (not selected_sections or node.get('section') in selected_sections or (node.get('type') == 'section' and node.get('id') in selected_sections))
+        ]
+        filtered_node_ids = {node['id'] for node in filtered_nodes}
+        filtered_edges = [
+            edge for edge in graph['edges']
+            if edge['source'] in filtered_node_ids and edge['target'] in filtered_node_ids
+        ]
+        filtered_graph = {
+            'nodes': filtered_nodes,
+            'edges': filtered_edges
+        }
+        return jsonify(filtered_graph)
+    else:
+        return jsonify(graph)
 
 @app.route('/api/metrics_history')
 def metrics_history():
@@ -45,3 +67,4 @@ def metrics_history():
 
 if __name__ == '__main__':
     app.run(debug=True)
+    

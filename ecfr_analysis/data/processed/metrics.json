@@ -4,9 +4,249 @@
     "checksum": "f377f65c9685bf7ec16b6e385e64d379",
     "readability": 141.17767698067738
   },
+  "title10_parsed.json": {
+    "word_count": 243362,
+    "checksum": "bcbe93c76ee30dcfa3e52a4489e3fff9",
+    "readability": 17.152448094628294
+  },
+  "title11_parsed.json": {
+    "word_count": 170672,
+    "checksum": "190b957a09dd015fc6fded8486c2dde8",
+    "readability": 16.104870790582503
+  },
+  "title12_parsed.json": {
+    "word_count": 782032,
+    "checksum": "86b1d34e6fb6ccf2af71088b6d2c6c3d",
+    "readability": 17.557227730435212
+  },
+  "title13_parsed.json": {
+    "word_count": 82643,
+    "checksum": "abf12de360de00e7e5aab2b5b3c74f3f",
+    "readability": 17.59208504029169
+  },
+  "title14_parsed.json": {
+    "word_count": 162049,
+    "checksum": "af2a1d6bbdf4136bb6b5ce6a115f9180",
+    "readability": 16.134144964513926
+  },
+  "title15_parsed.json": {
+    "word_count": 403445,
+    "checksum": "4fda1e7ff85918dec96ff98312eca27f",
+    "readability": 14.520714024246661
+  },
+  "title16_parsed.json": {
+    "word_count": 428765,
+    "checksum": "330a4f93e3b6b834780e6c08f25ab1c8",
+    "readability": 14.788578478684883
+  },
+  "title17_parsed.json": {
+    "word_count": 576724,
+    "checksum": "f56c82d88a5274cb6a4d357e65f5e7e4",
+    "readability": 19.217562476852326
+  },
+  "title18_parsed.json": {
+    "word_count": 194514,
+    "checksum": "ae46f9c9de591a4d78f5739315e57808",
+    "readability": 16.999907788932394
+  },
+  "title19_parsed.json": {
+    "word_count": 78944,
+    "checksum": "0088ba83cc43c58cc7520748fa6eeeb1",
+    "readability": 15.028970910466501
+  },
   "title1_parsed.json": {
     "word_count": 32061,
     "checksum": "c75febcc08d9867230a56becd353df24",
     "readability": 16.26979942444015
+  },
+  "title20_parsed.json": {
+    "word_count": 215539,
+    "checksum": "0284164a5fd87b8be5ad1c8566a7dfa9",
+    "readability": 16.00251668678055
+  },
+  "title21_parsed.json": {
+    "word_count": 232988,
+    "checksum": "a017b53ed574d6d6c4b51a9e03754f83",
+    "readability": 11.243489583348179
+  },
+  "title22_parsed.json": {
+    "word_count": 409181,
+    "checksum": "88cf64f8445c5939419f932080fe0eec",
+    "readability": 16.457669935254014
+  },
+  "title23_parsed.json": {
+    "word_count": 107028,
+    "checksum": "80cb8e23bb7f85ef1d2e49560f67f935",
+    "readability": 15.982146926115146
+  },
+  "title24_parsed.json": {
+    "word_count": 120501,
+    "checksum": "18b3d21680fbb171dc6042d92180d9ac",
+    "readability": 17.017968925995834
+  },
+  "title25_parsed.json": {
+    "word_count": 255971,
+    "checksum": "8bb80025dfdbe8b04a0677937e4351ad",
+    "readability": 15.08605772140984
+  },
+  "title26_parsed.json": {
+    "word_count": 651413,
+    "checksum": "ea7d3032567ff1907d7d73b50d1f78d2",
+    "readability": 16.679823281407895
+  },
+  "title27_parsed.json": {
+    "word_count": 562,
+    "checksum": "d5fcd9cde26cd42d7904f256951dfa80",
+    "readability": 19.445416004239537
+  },
+  "title28_parsed.json": {
+    "word_count": 210689,
+    "checksum": "f48e490122d23140efd59fbdd96d3173",
+    "readability": 17.44292487969506
+  },
+  "title29_parsed.json": {
+    "word_count": 490456,
+    "checksum": "ce412cd0f907a9130b3e45a616f103b3",
+    "readability": 16.918673772571193
+  },
+  "title2_parsed.json": {
+    "word_count": 38272,
+    "checksum": "ad2200c9738de136db06b5d041090ce5",
+    "readability": 13.384224014162431
+  },
+  "title30_parsed.json": {
+    "word_count": 378599,
+    "checksum": "0de1d9586be2e61151d659fcff5da051",
+    "readability": 15.535689065751665
+  },
+  "title31_parsed.json": {
+    "word_count": 144117,
+    "checksum": "5a7fe030b4b134b30423f97584e64ae2",
+    "readability": 16.083756629143195
+  },
+  "title32_parsed.json": {
+    "word_count": 828897,
+    "checksum": "f5b8757648a9e38e0062d1e8616aceeb",
+    "readability": 15.266637666700376
+  },
+  "title33_parsed.json": {
+    "word_count": 360246,
+    "checksum": "f1a810f6fc7c5af0160cf9c238f0b981",
+    "readability": 13.499935403814302
+  },
+  "title34_parsed.json": {
+    "word_count": 63067,
+    "checksum": "ce37fa2e5ee36bf2e7cf80e53edfedbb",
+    "readability": 16.26987044174409
+  },
+  "title36_parsed.json": {
+    "word_count": 347903,
+    "checksum": "ffdb6ccbb47d1ebf9d6a2d1e65bfc854",
+    "readability": 15.443579957217413
+  },
+  "title37_parsed.json": {
+    "word_count": 185556,
+    "checksum": "aa77cc87617b3162e975b4171df9cf1b",
+    "readability": 15.826130699401304
+  },
+  "title38_parsed.json": {
+    "word_count": 167702,
+    "checksum": "422c918d4ff0283a5340cacb03b70478",
+    "readability": 16.9350736950901
+  },
+  "title39_parsed.json": {
+    "word_count": 183195,
+    "checksum": "3641ba1b32e6ff6c1e6cca874b6155e3",
+    "readability": 15.291006220631527
+  },
+  "title3_parsed.json": {
+    "word_count": 4137,
+    "checksum": "049d142ea0f614a36c163fb3621ece8f",
+    "readability": 17.651141819068517
+  },
+  "title40_parsed.json": {
+    "word_count": 369877,
+    "checksum": "e66be370cbb73da3cfd8af4a52a46862",
+    "readability": 15.257286442047882
+  },
+  "title41_parsed.json": {
+    "word_count": 98556,
+    "checksum": "362749bcfba8b901f929315992bd90c7",
+    "readability": 15.663498588381461
+  },
+  "title42_parsed.json": {
+    "word_count": 129613,
+    "checksum": "8caf902d797ae30479c6cc2950a7e4b8",
+    "readability": 17.714163140810843
+  },
+  "title43_parsed.json": {
+    "word_count": 114758,
+    "checksum": "ac551e564473532eb306c225e3601498",
+    "readability": 17.331159124617816
+  },
+  "title44_parsed.json": {
+    "word_count": 97946,
+    "checksum": "155e97005b3317a75497be8f7ad259ed",
+    "readability": 16.473612071165203
+  },
+  "title45_parsed.json": {
+    "word_count": 625283,
+    "checksum": "666f6e18fc9c72fc10086c1122cc70b5",
+    "readability": 16.872142165855646
+  },
+  "title46_parsed.json": {
+    "word_count": 120077,
+    "checksum": "29302c832a950eac965e1d8d51e1795d",
+    "readability": 14.755590254620323
+  },
+  "title47_parsed.json": {
+    "word_count": 46391,
+    "checksum": "e52420d8955150ccec5c822b5cff8eef",
+    "readability": 17.13085319815605
+  },
+  "title48_parsed.json": {
+    "word_count": 150018,
+    "checksum": "7d97c2acee2898e4a158ce4006cf0fc2",
+    "readability": 14.359945333959619
+  },
+  "title49_parsed.json": {
+    "word_count": 466982,
+    "checksum": "0d3ae5347c79533bd40d5a5a3dbde161",
+    "readability": 15.088536990457918
+  },
+  "title4_parsed.json": {
+    "word_count": 36181,
+    "checksum": "8c96338cec86c01bb4e3344c7f961763",
+    "readability": 15.58349024956188
+  },
+  "title50_parsed.json": {
+    "word_count": 159827,
+    "checksum": "02ad47f2ecc5c68a6b93b4a82cbedad6",
+    "readability": 6.32065420805792
+  },
+  "title5_parsed.json": {
+    "word_count": 268924,
+    "checksum": "bfed6d82204c644da08f2368d73ba680",
+    "readability": 16.664827402379533
+  },
+  "title6_parsed.json": {
+    "word_count": 66631,
+    "checksum": "475f382f700273ba438b2e45c588e3dd",
+    "readability": 18.110001515877126
+  },
+  "title7_parsed.json": {
+    "word_count": 872450,
+    "checksum": "f48207a39e5fa99a70838a3c19775acf",
+    "readability": 15.179423828730425
+  },
+  "title8_parsed.json": {
+    "word_count": 318313,
+    "checksum": "a5cae53af2ef1ac67922715d1c005366",
+    "readability": 16.818407766031218
+  },
+  "title9_parsed.json": {
+    "word_count": 311281,
+    "checksum": "6b5360013ba1f29454f5e27e48eb4cf5",
+    "readability": 15.913387358877667
   }
 }

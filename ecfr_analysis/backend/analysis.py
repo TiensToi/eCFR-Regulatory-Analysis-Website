@@ -214,9 +214,17 @@ def generate_cross_reference_graph(parsed_json_path, crossref_path, output_path)
                     target_id = n['id']
                     break
             if target_id:
-                edges.append({'source': source, 'target': target_id})
+                edges.append({
+                    'source': source,
+                    'target': target_id,
+                    'label': f"{source} references {target_id}"
+                })
             else:
-                edges.append({'source': source, 'target': target})
+                edges.append({
+                    'source': source,
+                    'target': target,
+                    'label': f"{source} references {target}"
+                })
     with open(output_path, 'w', encoding='utf-8') as out:
         json.dump({'nodes': nodes, 'edges': edges}, out, indent=2)
 
