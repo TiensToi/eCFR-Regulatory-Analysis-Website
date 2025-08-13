@@ -94,9 +94,5 @@ Thumbs.db
 *.jpeg
 *.gif
 
-# Keep a few small sample XML files
+# Keep a small sample XML file
 !ecfr_analysis/data/raw/ECFR-title1.xml
-!ecfr_analysis/data/raw/ECFR-title2.xml
-!ecfr_analysis/data/raw/ECFR-title3.xml
-!ecfr_analysis/data/raw/ECFR-title4.xml
-!ecfr_analysis/data/raw/ECFR-title5.xml
